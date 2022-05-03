@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @kishan06
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on ...
+## Hi, I'm Kishan Bhuta 👋
+- 👀 I’m interested in Programming and Application Development.
+- 🌱 I’m currently Learning more about Flutter
 - 📫 How to reach me +919158874404
 
 <!---
