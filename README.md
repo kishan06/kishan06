@@ -24,6 +24,12 @@
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+### :hammer_and_wrench: Languages and Tools :<br> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+
+---
+
+### :fire: My Stats : <br>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kishan06&theme=dark&background=000000)](https://git.io/streak-stats)
 
