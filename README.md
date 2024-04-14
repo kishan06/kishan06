@@ -15,3 +15,15 @@
 
 ### :technologist: About Me : I am a Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
+- :seedling: Exploring world of flutter and dart.
+
+- :zap: In my free time, I solve problems on Leetcode and read tech articles.
+
+- :mailbox: How to reach me: 
+ [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishan-bhuta-419a4a10a/)
+
+---
+
+### :hammer_and_wrench: Languages and Tools :<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+
